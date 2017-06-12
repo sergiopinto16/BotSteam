@@ -1,0 +1,4 @@
+abc | 123
+Hello | Hey
+GoodBye | Bye
+!awp | 183.2.40

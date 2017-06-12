@@ -1,0 +1,22 @@
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\bin\Debug\BotSteam.exe.config
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\bin\Debug\BotSteam.exe
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\bin\Debug\BotSteam.pdb
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\bin\Debug\protobuf-net.dll
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\bin\Debug\SteamKit2.dll
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\bin\Debug\protobuf-net.pdb
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\bin\Debug\protobuf-net.xml
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\bin\Debug\SteamKit2.xml
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\obj\Debug\BotSteam.csprojResolveAssemblyReference.cache
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\obj\Debug\BotSteam.exe
+c:\users\sérgio pinto\documents\visual studio 2013\Projects\BotSteam\BotSteam\obj\Debug\BotSteam.pdb
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\bin\Debug\BotSteam.exe.config
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\obj\Debug\BotSteam.exe
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\obj\Debug\BotSteam.pdb
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\bin\Debug\BotSteam.exe
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\bin\Debug\BotSteam.pdb
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\bin\Debug\protobuf-net.dll
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\bin\Debug\SteamKit2.dll
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\bin\Debug\protobuf-net.pdb
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\bin\Debug\protobuf-net.xml
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\bin\Debug\SteamKit2.xml
+C:\Users\Sergio\Documents\Visual Studio 2013\Projects\BotSteam\BotSteam\obj\Debug\BotSteam.csprojResolveAssemblyReference.cache
